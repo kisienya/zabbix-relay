@@ -23,7 +23,7 @@ npm install
 
 ## Example
 
-You should create the configuration file named config.production.js that specify the configuration of zabbix api and zabbix database first. 
+You should create the configuration file named config.js that specify the configuration of zabbix api and zabbix database first. 
 
 ```
 module.exports = {
